@@ -1,6 +1,5 @@
 {
   "name": "fractionalisenft-after-split",
-  "homepage": ".",
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
